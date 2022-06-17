@@ -17,6 +17,7 @@ read_file.to_csv ("Payable.csv", index = None, header=True)
 receiavble_csv = "Receivable.csv"
 payable_csv = "Payable.csv"
 output_csv = "Output.csv"
+
 # ----------------------------------------------------- READING RECEIVABLE ENTRIES FROM CSV INTO LIST ------------------------------------
 
 receivable_entries = []
